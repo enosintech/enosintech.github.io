@@ -1,4 +1,4 @@
-const date = "10 June 2023";
+const date = "10 June 2024";
 
 const dayC = document.querySelector("#days");
 const hourC = document.querySelector("#hours");
